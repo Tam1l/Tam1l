@@ -1,4 +1,4 @@
-- Hi, I’m @Tam1l
+- Hi, I’m @Tamil
 - I’m interested in python and c++ automation and robotics
 - I’m currently learning basics of python automation
 - Making robots to work in mines and dangerous places
